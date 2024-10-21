@@ -1,19 +1,17 @@
 <h1 align="center">Hello 👋, I'm Nyang'un,</h1>
-<h3 align="center">A Data Analyst from Kenya and a Prospective ML Engineer with a Special Interest in the Oil and Gas Sector</h3>
-
+<h3 align="center">A Data Analyst from Kenya and a Prospective ML Engineer with Special Interest in the Oil and Gas Sector</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyangun&label=Profile%20views&color=0e75b6&style=flat" alt="nyangun" /> </p>
-
 <p align="left"> <a href="https://twitter.com/_monteh" target="blank"><img src="https://img.shields.io/twitter/follow/_monteh?logo=twitter&style=for-the-badge" alt="_monteh" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+    - 🌱 I’m currently learning **ML**
+    
+    - 👯 I’m looking to collaborate on **Oil and Gas Data Projects**
+    
+    - 💬 Ask me about **Data Analysis, Power BI, SQL, Python, R, Tableau**
+    
+    - 📫 How to reach me **collinsnyangun@gmail.com**
 
-- 👯 I’m looking to collaborate on **Oil and Gas Data Projects**
-
-- 💬 Ask me about **Data Analysis, Power BI, SQL, Python, R, Tableau**
-
-- 📫 How to reach me **collinsnyangun@gmail.com**
-
-- ⚡ Fun fact **When I am not working on something Data-related, I am watching something Sci-Fi**
+    - ⚡ Fun fact **When I am not working on something Data-related, I am watching something Sci-Fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
