@@ -1,7 +1,5 @@
-[![MasterHead](https://imarticus.org/blog/can-you-become-a-data-analyst-by-online-tutorials-big-data-analytics-blog/)
 <h1 align="center">Hello 👋, I'm Nyang'un,</h1>
 <h3 align="center">A Data Analyst from Kenya and a Prospective ML Engineer with a Special Interest in the Oil and Gas Sector</h3>
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/work-working-working-hard-coffee-gif-12591984">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyangun&label=Profile%20views&color=0e75b6&style=flat" alt="nyangun" /> </p>
 
