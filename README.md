@@ -5,13 +5,13 @@
 
     - 🌱 I’m currently learning ML/Data Warehouse Architecture/Cloud Platforms
     
-    - 👯 I’m looking to collaborate on **Oil and Gas Data Projects**
+    - 👯 I’m looking to collaborate on **Oil and Gas Data Projects
     
-    - 💬 Ask me about **Data Analysis, Power BI, SQL, Python, R, Tableau**
+    - 💬 Ask me about Data Analysis/Power BI/SQL/Python/R/Tableau
     
-    - 📫 How to reach me **collinsnyangun@gmail.com**
+    - 📫 How to reach me: collinsnyangun@gmail.com
 
-    - ⚡ Fun fact **When I am not working on something Data-related, I am watching something Sci-Fi**
+    - ⚡ Fun fact: When I am not working on something Data-related, I am watching something Sci-Fi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
