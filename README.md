@@ -11,7 +11,7 @@
     
     - 📫 How to reach me: collinsnyangun@gmail.com
 
-    - ⚡ Fun fact: When I am not working on something Data-related, I am watching something Sci-Fi while taking some tea!
+    - ⚡ Fun fact: When I am not working on something Data-related, I'll be watching or reading something Sci-Fi while taking some tea!🍵
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
