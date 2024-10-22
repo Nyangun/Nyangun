@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyangun&label=Profile%20views&color=0e75b6&style=flat" alt="nyangun" /> </p>
 <p align="left"> <a href="https://twitter.com/_monteh" target="blank"><img src="https://img.shields.io/twitter/follow/_monteh?logo=twitter&style=for-the-badge" alt="_monteh" /></a> </p>
 
-    - 🌱 I’m currently learning **ML**
+    - 🌱 I’m currently learning ML/Data Warehouse Architecture/Cloud Platforms
     
     - 👯 I’m looking to collaborate on **Oil and Gas Data Projects**
     
